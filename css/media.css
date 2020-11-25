@@ -1,0 +1,138 @@
+@media(max-width: 1400px)
+{
+
+
+	.banhead {
+    padding: 8% 0;
+}
+
+   .box4 ul {
+    padding: 0 0px 0 5px;}
+
+
+    .emailbox {
+    max-width: 132px;
+    background-color: #f1f3fc;
+    border: none;
+    color: #333;}
+
+
+    .sale {
+    background-color: black;
+    color: white;
+    padding: 5px 12px;
+    font-weight: 400;
+    position: absolute;
+    bottom: 90%;
+    right: 0%;}
+
+
+
+}
+
+
+@media(max-width: 1200px)
+{
+
+
+.emailbox {
+    max-width: 114px;
+    background-color: #f1f3fc;
+    border: none;
+    color: #333;
+    font-size: 12px;
+  }
+
+
+.banhead {
+    padding: 12% 0;}
+
+
+	.sale {
+    background-color: black;
+    color: white;
+    padding: 5px 12px;
+    font-weight: 400;
+    position: absolute;
+    bottom: 87%;
+    right: 0%;}
+
+
+    .box3text p {
+    font-weight: 400;
+    font-size: 13px;
+    margin: 5px 0 2px;
+
+}
+
+
+.colour {
+    flex: 0 0 auto;
+    flex-wrap: wrap;
+    height: 14px;
+    width: 14px;
+    margin: 0 5px;
+    border: 1px solid black;
+    position: relative;
+}
+
+
+.coloursub_black{
+      background: #333;
+      height: 11px;
+    width: 10px;
+      position: absolute;
+      top: 50%;
+      right: 50%;
+      transform: translate(50%,-50%);
+}
+
+.coloursub_ash{
+      background: #978c8c;
+     height: 11px;
+    width: 10px;
+      position: absolute;
+      top: 50%;
+      right: 50%;
+      transform: translate(50%,-50%);
+}
+.coloursub_yellow{
+      background: #857fdb;
+      height: 11px;
+    width: 10px;
+      position: absolute;
+      top: 50%;
+      right: 50%;
+      transform: translate(50%,-50%);
+}
+.coloursub_blue{
+      background: #725726;
+     height: 11px;
+    width: 10px;
+      position: absolute;
+      top: 50%;
+      right: 50%;
+      transform: translate(50%,-50%);
+}
+
+.emailbox {
+    max-width: 104px;
+    font-size: 12px;}
+
+
+    .navbar-light .navbar-nav .nav-link {
+    
+    font-size: 18px;}
+
+.search-box select {
+    border: 2px solid;
+    padding: 10px 26px 10px 6px;}
+
+    .copy span {
+    font-size: 11px;}
+
+
+}
+
+
+
